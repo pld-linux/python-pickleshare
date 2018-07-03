@@ -12,7 +12,7 @@ Summary:	A small 'shelve' like datastore with concurrency support
 Summary(pl.UTF-8):	Mały, podobny do 'shelve', zarządca danych z wsparciem dla konkurencyjności
 Name:		python-%{module}
 Version:	0.7.4
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 Source0:	https://github.com/pickleshare/pickleshare/archive/%{version}.tar.gz
